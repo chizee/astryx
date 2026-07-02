@@ -23,6 +23,9 @@ export type {UseGridFocusOptions, UseGridFocusReturn} from './useGridFocus';
 export {useListFocus} from './useListFocus';
 export type {UseListFocusOptions, UseListFocusReturn} from './useListFocus';
 
+export {useTypeahead} from './useTypeahead';
+export type {UseTypeaheadOptions, UseTypeaheadReturn} from './useTypeahead';
+
 export {useMediaQuery} from './useMediaQuery';
 
 export {useOverflow} from './useOverflow';
