@@ -63,20 +63,7 @@ type AvatarNamedSize = 'tiny' | 'xsmall' | 'small' | 'medium' | 'large';
  * Numeric size options (in pixels)
  */
 type AvatarNumericSize =
-  | 16
-  | 20
-  | 24
-  | 32
-  | 36
-  | 40
-  | 48
-  | 60
-  | 64
-  | 72
-  | 96
-  | 128
-  | 144
-  | 180;
+  16 | 20 | 24 | 32 | 36 | 40 | 48 | 60 | 64 | 72 | 96 | 128 | 144 | 180;
 
 /**
  * Avatar size - can be a named size or a specific pixel value
